@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.imgbox {
+  display: grid;
+  height: 100%;
+}
+
+.center-fit {
+  background-size: cover;
+  width: 1280px;
+  height: 720px;
+  padding-top: 125px;
+  box-sizing: border-box;
+  padding: 1000px;
+}
+
+/* text */
+.Evan {
+  position: absolute;
+  font-family: Josefin Sans;
+  padding-top: 360px;
+  padding-left: 50px;
+  color: white;
+  font-size: 75px;
+}
+.Software {
+  position: absolute;
+  font-family: Josefin Sans;
+  padding-top: 430px;
+  padding-left: 50px;
+  color: white;
+  font-size: 75px;
+}
+.Hello {
+  position: absolute;
+  font-family: Josefin Sans;
+  padding-top: 310px;
+  padding-left: 50px;
+  color: white;
+  font-size: 50px;
+}
+.Introduce {
+  position: absolute;
+  font-family: Poppins ExtraBold;
+  padding-top: 100px;
+  color: black;
+  font-size: 75px;
+  padding-left: 120px;
+}
+.About {
+  position: absolute;
+  font-family: Poppins ExtraBold;
+  padding-top: 80px;
+  color: black;
+  font-size: 30px;
+  padding-left: 120px;
+}
+.Bio {
+  position: absolute;
+  font-family: Biryani;
+  padding-top: 200px;
+  color: black;
+  padding-left: 120px;
+  width: 1350px;
+  font-size: 25px;
+}
