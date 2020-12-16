@@ -10,11 +10,9 @@
 .center-fit {
   background-size: cover;
   height: 100vh;
-  padding-top: 120px;
 }
 /* text */
 .Evan {
-  position: absolute;
   font-family: Josefin Sans;
   padding-top: 360px;
   padding-left: 50px;
@@ -22,7 +20,6 @@
   font-size: 75px;
 }
 .Software {
-  position: absolute;
   font-family: Josefin Sans;
   padding-top: 430px;
   padding-left: 50px;
@@ -30,7 +27,6 @@
   font-size: 75px;
 }
 .Hello {
-  position: absolute;
   font-family: Josefin Sans;
   padding-top: 310px;
   padding-left: 50px;
@@ -38,7 +34,6 @@
   font-size: 50px;
 }
 .Introduce {
-  position: absolute;
   font-family: Poppins ExtraBold;
   padding-top: 100px;
   color: black;
@@ -46,7 +41,6 @@
   padding-left: 120px;
 }
 .About {
-  position: absolute;
   font-family: Poppins ExtraBold;
   padding-top: 80px;
   color: black;
@@ -54,7 +48,6 @@
   padding-left: 120px;
 }
 .Bio {
-  position: absolute;
   font-family: Biryani;
   padding-top: 200px;
   color: black;
