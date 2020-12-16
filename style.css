@@ -9,13 +9,9 @@
 
 .center-fit {
   background-size: cover;
-  width: 1280px;
-  height: 720px;
-  padding-top: 125px;
-  box-sizing: border-box;
-  padding: 1000px;
+  height: 100vh;
+  padding-top: 120px;
 }
-
 /* text */
 .Evan {
   position: absolute;
