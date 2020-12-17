@@ -54,23 +54,23 @@ body {
 }
 .Introduce {
   font-family: Poppins ExtraBold;
-  padding-top: 100px;
+  padding-top: 1.5vw;
   color: black;
-  font-size: 2vw;
-  padding-left: 60px;
+  font-size: 4vw;
+  padding-left: 4vw;
 }
 .About {
   font-family: Poppins ExtraBold;
-  padding-top: 80px;
+  padding-top: 4vw;
   color: black;
   font-size: 2vw;
-  padding-left: 60px;
+  padding-left: 4vw;
 }
 .Bio {
   font-family: Biryani;
-  padding-top: 50px;
+  padding-top: 2vw;
   color: black;
-  padding-left: 60px;
-  width: 1350px;
+  padding-left: 4vw;
+
   font-size: 1.5vw;
 }
