@@ -56,21 +56,21 @@ body {
   font-family: Poppins ExtraBold;
   padding-top: 100px;
   color: black;
-  font-size: 75px;
-  padding-left: 120px;
+  font-size: 2vw;
+  padding-left: 60px;
 }
 .About {
   font-family: Poppins ExtraBold;
   padding-top: 80px;
   color: black;
-  font-size: 30px;
-  padding-left: 120px;
+  font-size: 2vw;
+  padding-left: 60px;
 }
 .Bio {
   font-family: Biryani;
-  padding-top: 200px;
+  padding-top: 50px;
   color: black;
-  padding-left: 120px;
+  padding-left: 60px;
   width: 1350px;
-  font-size: 25px;
+  font-size: 1.5vw;
 }
